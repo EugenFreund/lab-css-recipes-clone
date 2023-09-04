@@ -32,6 +32,10 @@ header {
   text-align: center;
 }
 
+.main-content {
+  padding: 50px 15%;
+}
+
 h1 {
   padding-top: 250px;
 }
